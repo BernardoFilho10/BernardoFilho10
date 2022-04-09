@@ -20,6 +20,11 @@ Sou um sonhador nesse mundo de programação web! Estou sempre aberto para tirar
      <a href = "mailto:bernardodev2022@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/bernardo-filho-32b0bb237" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
+    
      ![Snake animation](https://github.com/BernardoFilho10/BernardoFilho10/blob/output/github-contribution-grid-snake.svg)
     
   </div>
+  
+ 
+     
+
